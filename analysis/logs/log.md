@@ -15,11 +15,25 @@ Something that was challenging that could be worked on, such as anything that wa
 ## Additional thought
 Write anything that you think would be important for YOU later on.
 
+---
+
+# Learner Log Entry #2 - February 6, 2023
+
+### Rose: 
+I really enjoyed learning more about project management, especially project governance. I think having an overview document that highlights projects roles and procedures is very important for continuity and onboarding.
+
+### Bud:
+I am curious to learn more about project management certificates and programs. I think it is such a great skill to have but most PhD programs do not teach it. I am looking into additonal ways that I can learn more about projects management or websites that can assist with project tracking. 
+
+### Thorn: 
+I am still not very clear on Cyverse and how to utilize it. I'm sure we will learn more about it, but at the outset I am confused on how to navigate it and utilize it for data storage/analysis.
+
+---
 
 # Learner Log Entry #1 - January 30, 2023
 
 ### Rose:
-Something that I found particularly interestng was the concept of open data. I think there can be a lot of pros and cons about using open data, such as the potential for other scientists to scoop novel findings from the data before the original researchers. However, I think making data available in an ethical way allows for researchers who may not have the resources to collect thousands of data points to still contribute to open science. It is also a way to make federally funded research more accessible to the public.
+Something that I found particularly interesting was the concept of open data. I think there can be a lot of pros and cons about using open data, such as the potential for other scientists to scoop novel findings from the data before the original researchers. However, I think making data available in an ethical way allows for researchers who may not have the resources to collect thousands of data points to still contribute to open science. It is also a way to make federally funded research more accessible to the public.
 
 ### Bud:
 I am curious about the concept of open review. I had not heard about this approach previously and I think it could be a way to make the peer-review process more transparent. However, I think it may also introduce bias. If you know someone will see your review, you may be less likely to be honest about your feedback. Additionally, it may create a target for early-career scientists who provide honest and ethical feedback against more senior researchers.
