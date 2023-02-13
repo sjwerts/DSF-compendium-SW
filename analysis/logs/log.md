@@ -17,6 +17,19 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #3 - February 13, 2023
+
+### Rose: 
+I am excited to explore more about different data management tools. I was not aware there were so many different ways to organize the data, so I would like to learn more about what specific tools there are for my field and what standards I want to implement.
+
+### Bud:
+Now that I have seen some of the ways to manage data, I want to do a better job of implementing this in my own research, especially my dissertation. I am in the initial set-up for data collection, so I am excited that I can implement some of these tools immediately.
+
+### Thorn: 
+I feel like I did not get enough explanation on what data management is. I think part of it is intuitive and the discussions helped, but I think maybe seeing a clear example would be helpful or walking through how to set up a data management system from the beginning. 
+
+---
+
 # Learner Log Entry #2 - February 6, 2023
 
 ### Rose: 
