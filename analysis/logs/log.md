@@ -17,6 +17,19 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #4 - February 20, 2023
+
+### Rose:
+I really enjoyed diving deeper into data management during our DSF discussion. It helped to have a little bit more hands on experience and to see how to actually build the data management plan.
+
+### Bud:
+I am excited to dive deeper into website creation. I think there are many potential applications to my work, including a potential website that could be built as a participant interface for an mHealth study. 
+
+### Thorn:
+I don't think anything was unclear, I think I just have to overcome a bit of a learning curve to become more efficient at using markdown and GitHub. I have become more efficient and it is becoming more intuitive, but I think it will still take some time to build something worth using.
+
+---
+
 # Learner Log Entry #3 - February 13, 2023
 
 ### Rose: 
