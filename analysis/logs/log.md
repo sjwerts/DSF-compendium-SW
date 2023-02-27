@@ -17,6 +17,19 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #5 - February 27, 2023
+
+### Rose:
+I enjoyed the conversation around version control. I did not realize at first that I already use version control for my documents in GoogleDocs or other platforms by saving the date of the version in the title. 
+
+### Bud:
+I am looking forward to diving deeper into building a repository for my dissertation work so that version control will become more automatic.
+
+### Thorn:
+I enjoyed diving into the Cyverse platform more, but I think I would like to know more about when it would be preferred to use the Cyverse command line versus the local command line on the desktop. Is it a question of compute hours? 
+
+---
+
 # Learner Log Entry #4 - February 20, 2023
 
 ### Rose:
