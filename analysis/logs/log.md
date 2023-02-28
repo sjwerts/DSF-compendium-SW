@@ -15,6 +15,9 @@ Something that was challenging that could be worked on, such as anything that wa
 ## Additional thought
 Write anything that you think would be important for YOU later on.
 
+
+New line
+
 ---
 
 # Learner Log Entry #5 - February 27, 2023
