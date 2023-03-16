@@ -15,8 +15,31 @@ Something that was challenging that could be worked on, such as anything that wa
 ## Additional thought
 Write anything that you think would be important for YOU later on.
 
+---
 
-New line
+# Learner Log Entry #7 - March 13, 2023
+
+### Rose:
+I went into the lesson with a minimal understanding of containers and I feel like by the end of the lesson I had a fairly good grasp of what they are and their purpose. 
+
+### Bud:
+Though I understand the use if containers, I am still not sure how I will apply it to my own work, if at all. I think part of this is because I was only able to attend the first day of container camp.
+
+### Thorn:
+Since I could only attend the first day of container camp, I think there is still some work I need to do to understand how to utilize containers in my own work. To better understand this, I plan to watch the rest of the recorded lectures from the camp that I was not able to attend. 
+
+---
+
+# Learner Log Entry #6 - March 6, 2023
+
+### Rose:
+I enjoyed seeing the varying spectrum of what we can make reproducible in our science. I had the idea in my head that because I work with human subjects data, I would not be able to share much about my data and coding. However, seeing the specturm, I now have an idea of how I can contribute to open science, even when I work with human subjects data.
+
+### Bud:
+Since seeing the levels of reproducibility, I have been thinking of ways I can make my own projects more reproducible while keeping the data safe. At the minimum, I can share my code. I am also thinking of ways I can make my data de-identified so it can be shared as well. 
+
+### Thorn:
+I am still not sure about the idea behind containers. They seem complex and I am not sure how to use them. I think the lesson next week in container camp will help me have a better understanding.
 
 ---
 
