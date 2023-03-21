@@ -17,6 +17,19 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #8 - March 20, 2023
+
+### Rose:
+This week I chose to complete a personal webpage as my FOSS capstone to share my research projects, my teaching activities, and my open source data. I will use this when applying to post-doctoral positions.
+
+### Bud:
+I am looking forward to creatively sharing my work and creating a product that is visually appealing and easy to navigate.
+
+### Thorn:
+I think it will take time to navigate how to use different templates and change the visual aspects of the webpage, so I need to spend some time looking into this and finding options.
+
+---
+
 # Learner Log Entry #7 - March 13, 2023
 
 ### Rose:
