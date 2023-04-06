@@ -17,6 +17,32 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #10 - April 3, 2023
+
+### Rose:
+I finished the initial mapping of my website. I enjoyed the process of creatively thinking about how I wanted to share my work.
+
+### Bud:
+Now that I have created the inital map of the site, I am looking into how to add icons, images, and links to make the site more interactive. I found a number of educators that have shared how they modified their sites, so I am looking forward to exploring this more.
+
+### Thorn:
+The only difficulty I had creating and modifying the website was the process of rendering and pushing. I found that if I had not rendered before pushing to GitHub, it would not publish to the website, though it was showing on GitHub. The FOSS team offered some resources that I need to look through to make that rendering process automatic.
+
+---
+
+# Learner Log Entry #9 - March 27, 2023
+
+### Rose:
+I am currently working on creating my website for the FOSS capstone. I am enjoying looking through the different templates and potential options for building my site.
+
+### Bud:
+I have found a number of templates to use and I am looking forward to trying a few to see which best meets my needs. 
+
+### Thorn:
+I was having difficulty choosing which format I wanted to use to build the website and then how to modify the site using command line. I read through a number of articles from data educators to help determine which would be the best for my purposes. 
+
+---
+
 # Learner Log Entry #8 - March 20, 2023
 
 ### Rose:
