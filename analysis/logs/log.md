@@ -17,6 +17,19 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #11 - April 10, 2023
+
+### Rose:
+I enjoyed learning from Peter about secondary data analysis. There were many resources shared that I am excited to explore further.
+
+### Bud:
+I am going to be starting a secondary data analysis soon using Women's Health Initiative data. I saved some of the links that Peter and Carlos shared related to exploratory data analysis using Python and I think it will be very helpful to explore and clean the data in Python ratehr than in excel like I normally do.
+
+### Thorn:
+I don't have any thorns this week. I just need to spend more time working on filling in my website.
+
+---
+
 # Learner Log Entry #10 - April 3, 2023
 
 ### Rose:
