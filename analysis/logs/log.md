@@ -17,6 +17,19 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+# Learner Log Entry #12 - April 17, 2023
+
+### Rose:
+I think the conversation around coding race/ethnicity in scientific research is VERY important and I think we could have had a much longer conversation about it. 
+
+### Bud:
+Coming from a biochemistry background, I can understand why many biological scientists have a hard time letting go of race/ethnicity as a causal or explanatory variable. According to most research studies and how we have been taught to analyze data, it looks clear that race/ethnicity are correlated with disease. However, that ignores all of the environmental, social, and physical variables that could be confounding that correlation. Now that I am in the social sciences, I have learned much more about the social implications and determinants of health and how some of the asusmptions we have made about health in the past are incorrect, at least the way we have traditionally viewed them.
+
+### Thorn:
+I think it can be frustrating to know the logic behind why race/ethnicity are not good variables to use in research, but to have to explain it repeatedly to those who have a hard time understanding that data is not always as it seems. I think this is also happening a lot more now with gender/sex variables as well. There is a lot of work in my field to try and determine the best categorizations to most accurately reflect the population.
+
+---
+
 # Learner Log Entry #11 - April 10, 2023
 
 ### Rose:
